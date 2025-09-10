@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Page"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -48,7 +48,3 @@ Passionate about **software development**, **data structures & algorithms**, and
 - **Languages:** C++, Java, Pascal, SQL
 - **Technologies:** Git, Linux, Eclipse, Visual Studio Code
 - **Core Skills:** Data Structures, Algorithms, OOP, Problem Solving
-
----
-
-© 2025 Phuong Ho. All rights reserved.
