@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Page"
 author_profile: true
 redirect_from: 
   - /about/
@@ -31,7 +31,7 @@ Passionate about **software development**, **data structures & algorithms**, and
 - Simulates vending machine operations with **user interaction** and **change calculation**
 - Added **reset** and **quit functionalities** for improved UX
 
-[View Code](https://github.com/FatFish-99/VendingMachine-eclipse) <!-- Replace # with GitHub link -->
+[View Code](https://github.com/FatFish-99/VendingMachine-eclipse){:target="_blank"} <!-- Replace # with GitHub link -->
 
 ---
 
@@ -47,4 +47,4 @@ Passionate about **software development**, **data structures & algorithms**, and
 ## 🛠️ Skills
 - **Languages:** C++, Java, Pascal, SQL
 - **Technologies:** Git, Linux, Eclipse, Visual Studio Code
-- **Core Skills:** Data Structures, Algorithms, OOP, Problem Solving
+- **Core Skills:** Data Structures, Algorithms, Problem Solving
