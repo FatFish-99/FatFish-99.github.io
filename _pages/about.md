@@ -40,7 +40,7 @@ Passionate about **software development**, **data structures & algorithms**, and
 - Implemented **file I/O** to store and retrieve reservation data
 - Designed with **clean UI** and usability in mind
 
-[View Code](https://github.com/FatFish-99/Cinco-Ranch-Hotel-Reservation) <!-- Replace # with GitHub link -->
+[View Code](https://github.com/FatFish-99/Cinco-Ranch-Hotel-Reservation){:target="_blank"} <!-- Replace # with GitHub link -->
 
 ---
 
