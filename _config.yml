@@ -357,4 +357,8 @@ compress_html:
     envs: development
 
 # Google Analytics
-google_analytics: G-NCKN7ZS23L 
+
+analytics:
+  provider: "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  google:
+    tracking_id: "G-NCKN7ZS23L" 
