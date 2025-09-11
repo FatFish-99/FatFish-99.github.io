@@ -48,3 +48,11 @@ Passionate about **software development**, **data structures & algorithms**, and
 - **Languages:** C++, Java, Pascal, SQL
 - **Technologies:** Git, Linux, Eclipse, Visual Studio Code
 - **Core Skills:** Data Structures, Algorithms, Problem Solving
+
+---
+
+## 📄 Resume
+
+You can view or download my full resume here:
+
+[**Download Resume (PDF)**](/files/Resume.pdf)
