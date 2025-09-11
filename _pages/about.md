@@ -55,4 +55,4 @@ Passionate about **software development**, **data structures & algorithms**, and
 
 You can view or download my full resume here:
 
-[**Download Resume (PDF)**](/files/Resume.pdf)
+[**Download Resume (PDF)**](/files/Resume.pdf){:target="_blank"}
